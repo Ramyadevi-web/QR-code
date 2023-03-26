@@ -1,0 +1,38 @@
+
+.container-fluid{
+    background-color:hsl(212, 45%, 89%);
+    padding : 30px;
+    width: 100%;
+}
+.inside{
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 15px;
+    padding : 10px;
+    margin : 6% 50%;
+    align-items: center;
+}
+body{
+    font-family: 'Outfit', sans-serif;
+}
+.qr{
+    height: 250px;
+    border-radius: 10px;
+    padding-top : 2px;
+}
+
+p{
+    text-align: center;
+    font-size: 15px;
+}
+.toptext{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+    text-align: center;
+}
+.bottomtext{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    color:  hsl(220, 15%, 55%);
+    text-align: center;
+}
+}
